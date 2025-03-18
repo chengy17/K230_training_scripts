@@ -1,7 +1,12 @@
+__pycache__
+
 end2end_kws_doc/examples/speechcommand_v1/my_data
 end2end_kws_doc/examples/speechcommand_v1/s0/data
 end2end_kws_doc/examples/speechcommand_v1/s0/exp
 end2end_kws_doc/examples/speechcommand_v1/s0/tensorboard
+end2end_kws_doc/examples/speechcommand_v1/s0/tmp
+
+
 end2end_kws_doc/examples/speechcommand_v1/speech_commands_v0.01.tar.gz
 end2end_kws_doc/examples/speechcommand_v1/wav_from_k230.zip
-__pycache__
+

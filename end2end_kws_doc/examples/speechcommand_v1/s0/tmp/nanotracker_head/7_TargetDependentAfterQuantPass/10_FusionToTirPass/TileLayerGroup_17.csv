@@ -1,9 +1,0 @@
-GNNEActivation
- , , , 
-1,1,256,1
-GNNETranspose
- , , , 
-1,1,30,256
-GNNEActivation
- , , , 
-1,1,256,1
